@@ -1,7 +1,7 @@
 {
   "name": "ghost",
   "version": "4.17.1",
-  "description": "Deploy Ghost v4 on Railway",
+  "description": "Deploy Ghost v4.x on Railway",
   "main": "index.js",
   "author": "farazpatankar",
   "license": "MIT",
