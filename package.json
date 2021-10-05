@@ -1,19 +1,19 @@
 {
   "name": "ghost",
-  "version": "4.10.0",
+  "version": "4.17.1",
   "description": "Deploy Ghost v4 on Railway",
   "main": "index.js",
   "author": "farazpatankar",
   "license": "MIT",
   "engines": {
-    "node": "12.X"
+    "node": "16.X"
   },
   "dependencies": {
     "casper": "github:TryGhost/Casper#main",
-    "ghost": "4.10.0",
+    "ghost": "4.17.1",
     "ghost-storage-cloudinary": "^2.1.5",
     "lyra": "github:TryGhost/lyra#main",
-    "mysql2": "^2.2.5"
+    "mysql2": "^2.3.0"
   },
   "scripts": {
     "start": "node index.js",
