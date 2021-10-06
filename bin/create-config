@@ -41,7 +41,8 @@ function createConfig() {
   }
 
   config = {
-    url: "https://" + process.env.RAILWAY_STATIC_URL,
+    //url: "https://" + process.env.RAILWAY_STATIC_URL,
+    url: "https://blog.anicastapp.ga",
     logging: {
       level: "info",
       transports: ["stdout"],
